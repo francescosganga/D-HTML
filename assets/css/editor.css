@@ -1,0 +1,27 @@
+.editor-bar {
+	width: 100%;
+	color: #FFFFFF;
+	background: #000000;
+	z-index: 9999;
+	position: fixed;
+	padding: 10px;
+	bottom: 0;
+	margin: 0!important;
+}
+
+.editor-bar h3 {
+	display: inline-block;
+}
+#modal-content-editor h5, #modal-content-editor .modal-body, #modal-editor-global h5, #modal-editor-global .modal-body table {
+	color: #000000;
+}
+
+#modal-content-editor textarea {
+	resize: none;
+	width: 100%;
+	font-size: 18px;
+	background: #F5F5F5;
+	border: 0px solid;
+	padding: 10px;
+	height: 150px;
+}
