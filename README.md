@@ -1,15 +1,15 @@
 # Dynamic Backend to HTML Page
- Automatically create editor for HTML page
+Automatically create editor for HTML page
 
 ## Getting Started
 
-Using DB-HTML you will able to edit HTML template file from your browser.
+Using D-HTML you will able to edit HTML template file from your browser.
 
 ### Prerequisites
 
 You (will) need to have:
 * Apache Server (With PHP Support)
-* MySQL Database
+* MySQL Database (future improvements)
 
 ### Installing
 
@@ -17,8 +17,9 @@ Under Construction
 
 ## Running the tests
 
-Actually you can clone this repository to your htdocs folder, go to http://localhost/db-html/build.php?workingDirectory=9FsrnukjWD
-You can see how DB-HTML works.
+Actually you can clone this repository to your htdocs folder.
+For example, go to http://localhost/db-html/build.php?workingDirectory=9FsrnukjWD.
+You can see how D-HTML works.
 
 ## Built With
 
@@ -28,9 +29,10 @@ You can see how DB-HTML works.
 * jQuery
 * PHP
 
-## Authors
+## Thanks To
 
 * **Francesco Sganga(http://www.francescosganga.it)** - *Initial work*
+* **Leno Template(https://themewagon.com/themes/free-bootstrap-4-html5-mobile-app-landing-page-template-leno/)** - Example HTML Template
 
 ## License
 

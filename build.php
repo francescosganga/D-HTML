@@ -1,5 +1,6 @@
 <?php
 	include("build.class.php");
+	
 	$Build = new Build;
 	if(isset($_GET['template'])) {
 		$template = $_GET['template'];
